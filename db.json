@@ -18,5 +18,25 @@
       "email": "charlie.durand@example.com",
       "role": "moderator"
     }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "content": "Exploration d'une nouvelle randonnée en montagne aujourd'hui.",
+      "userId": 1,
+      "path": "/images/posts/mountain-hike.jpg"
+    },
+    {
+      "id": 2,
+      "content": "Recette de gâteau au chocolat maison, un régal !",
+      "userId": 2,
+      "path": "/images/posts/chocolate-cake.jpg"
+    },
+    {
+      "id": 3,
+      "content": "Un coucher de soleil à couper le souffle depuis la plage.",
+      "userId": 3,
+      "path": "/images/posts/sunset-beach.jpg"
+    }
   ]
 }
